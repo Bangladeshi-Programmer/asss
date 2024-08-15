@@ -1,0 +1,298 @@
+.background-color{background-color:black;}
+/*navbar style*/
+nav{display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 45px  150px;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 36px;
+    color:#E6533C;
+}
+
+nav ul li{list-style: none;
+margin:47px;}
+
+nav li a{text-decoration: none;
+}
+
+.nav-color{color:#FFFFFF;}
+
+.button-style{
+    background-color: #E6533C;
+    color:#FFFFFF;
+    border-style: none;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 46px;
+}
+
+nav ul{display: flex;}
+/*banner*/
+.banner-heading{
+    font-size: 76px;
+    color:#FFFFFF;
+}
+.banner-paragraph{font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;}
+.btn-primary{border-radius: 46px;
+    border-style: none;
+    width: 215px;
+    height: 45px;
+    
+    
+
+}
+.italic{font-weight: 400;
+font-size: 50px;}
+.btn-secondary{
+    background-color: #E6533C;
+    border-radius: 46px;
+    border-style: none;
+    width: 215px;
+    height: 45px;
+}
+
+.two-button{display: flex;
+gap: 15px;}
+.banner-profile-picture{
+    width: 340px;
+    height: 560px;
+    border-radius: 107px;
+    margin-right: 130px;
+    background-color: black;
+    
+    
+}
+.banner{display: flex;
+justify-content: space-between;
+}
+.banner-content{width:580px;
+height: 430px;
+margin-left: 150px;}
+/*button*/
+.button-y{width:115px;
+height: 60px;
+background-color: #303030;
+color: #FAFAF9;
+border-style: none;
+border-radius: 12px;
+
+position:absolute;
+right:80px ;
+bottom: 400px;
+
+
+
+}
+
+.button-x{width: 130px;
+height: 60px;
+border-style: none;
+border-radius: 12px;
+background-color: #303030;
+color:#FAFAF9;
+
+
+
+}
+.button{position: relative;}
+/*Change Your Habits*/
+.habits{
+    text-align: center;
+}
+.habits-heading{font-size:48px ;
+font-weight: 900;
+color:rgba(255, 255, 255, 1) ;
+text-align: center;
+padding:0 97.5px
+}
+
+.habits-paragraph{font: size 14px; ;
+font-weight:400 ;
+color:rgba(255, 255, 255, 0.5) ;
+}
+/*Training Boys*/
+
+
+
+.heading-color{color:#FFFFFF;
+font-weight: 600;
+font-size: 18px;
+}
+
+.paragraph-color{
+    font: size 14px; 
+    
+    font-weight:400 ;
+    color: rgba(255, 255, 255, 0.5);
+    align-items: center;
+}
+.picture-radius{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+
+.Change-Your-Habits{
+display: flex;
+gap: 40px;
+align-items: center;
+padding: 0 0 0 250px;
+}
+
+.text-center{
+    text-align: center;
+}
+/*Run an Extra 
+Mile Easily*/
+.Run-paragraph{
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.Run-heading{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+    font-size: 48px;
+}
+.Run-image{
+    width: 366px;
+    height: 312px;
+    padding: 30px 30px 0 200px;
+}
+.Run-And-Extra{
+    display: flex;
+    
+    background-color: rgba(34, 34, 34, 1);
+    justify-content: center;
+    width: 1060px;
+    height: 371px;
+    margin-left: 110px;
+}
+
+/*BMI Calculator*/
+
+.Bmi-heading{
+    font-size:48px;
+    font-weight:900 ;
+    color:rgba(255, 255, 255, 1) ;
+}
+.Bmi-paragraph{
+    font-size:14px ;
+    color:rgba(255, 255, 255, 0.5) ;
+    font-weight: 400;
+}
+.Bmi-calculator{
+    text-align: center;
+}
+/*Table Chart*/
+
+
+.heading{font-size: 16px;
+font-weight:500 ;
+color:rgba(255, 255, 255, 1) ;}
+.data{font-size:14px ;
+font-weight:400px ;
+color:rgba(255, 255, 255, 0.5) ;}
+
+.table{
+    border:2px solid rgba(255, 255, 255, 0.1);
+    border-collapse:collapse;
+    width: ;
+
+}
+.BMI{padding: 40px 0 0 80px;}
+.chart{
+    font-weight: 900;
+    font-size: 28px;
+    color: rgba(255, 255, 255, 1);
+}
+
+/*input tag*/
+.BMI-chart{padding:40px 40px 0 40px;} 
+.input{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    font-weight: 400;
+    border-style: none;
+    font-size: 16px;
+    color:rgba(255, 255, 255, 0.6)
+}
+.input-container1{display: flex;
+    gap: 8px;
+}
+.select-box{
+    color:red;
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    border-style: none;
+}
+.select-box-second{
+    width:410px;
+    height: 30px;
+    color:red;
+    border-style: none;
+    border-radius: 8px;
+}
+.BMI-calculator-content{display: flex;
+background-color: rgba(34, 34, 34, 1);
+height: 350px;
+width: 1030px;
+margin:0 280px;
+justify-content:space-between;}
+
+
+ /*Meet Our Team*/
+ .Bmi-heading{text-align: center;}
+ 
+ /*6image add*/
+.picture img{width: 300px;
+height: 250px;
+border-radius: 18px;}
+
+.picture{display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 1050px;
+    height: 650px;
+    padding: 0 0 0 300px;
+}
+
+/*footer style */
+
+
+.footer-col{color:white}
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding:40px 100px;
+}
+.footer-col ul{list-style: none;}
+
+.footer-col h4{
+    color:rgba(255, 255, 255, 1);
+    font-size: 32px;
+    margin-bottom: 25px;
+    position:relative;
+    font-weight: 600;
+}
+.footer-col ul li{
+    color:rgba(255, 255, 255, 0.5)
+}
+.copy{
+    color:rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    
+}
+footer{
+width: 1100px;
+height: 450px;
+margin: 0 120px;
+background-color: rgba(255, 255, 255, 0.1);}
