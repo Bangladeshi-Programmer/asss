@@ -251,18 +251,51 @@ justify-content:space-between;}
  /*Meet Our Team*/
  .Bmi-heading{text-align: center;}
  
- /*6image add*/
-.picture img{width: 300px;
-height: 250px;
-border-radius: 18px;}
+ /*6--picture--add*/
 
-.picture{display: grid;
-    grid-template-columns: repeat(3,1fr);
-    width: 1050px;
-    height: 650px;
-    padding: 0 0 0 300px;
+.picture img{width:326.67px;
+height: 272px;
+border-radius: 18px;}
+.bold-text{
+font-weight:900 ;
+font-size:20px ;
+color:rgba(255, 255, 255, 1);}
+
+.paragraph-text{
+    font-weight:400 ;
+    font-size:14px ;
+    color:rgba(255, 255, 255, 0.5);
 }
 
+.six-picture-add{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 1010px;
+    height: 560px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 18px;
+    position: relative;
+    margin: 0 300px;
+}
+.text-1{
+    position:absolute;
+bottom:50%;
+}
+.text-2{
+    position:absolute;
+    bottom: 50%;
+}
+.text-3{position: absolute;
+bottom:50%;}
+.text-4{position: absolute;
+    bottom: 1%;
+}
+.text-5{
+    position: absolute;
+    bottom: 1%;
+}
+.text-6{position: absolute;
+bottom: 1%;}
 /*footer style */
 
 
