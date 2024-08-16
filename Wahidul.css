@@ -4,6 +4,8 @@ nav{display: flex;
 align-items: center;
 justify-content: space-between;
 margin: 45px  150px;
+
+margin: 0 50px;
 }
 
 .nav-title{
